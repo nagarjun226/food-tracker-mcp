@@ -242,7 +242,3 @@ You can extend the MCP by:
 - If you encounter connection issues, ensure you have internet access as the MCP connects to the OpenFoodFacts API
 - If product information is incomplete, this may be due to limitations in the OpenFoodFacts database
 - For any data persistence issues, check the permissions on the data directory
-
-## License
-
-This project is licensed under MIT Lisence - see the LICENSE file for details.
